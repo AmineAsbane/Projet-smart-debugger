@@ -42,4 +42,4 @@ On exécute le script principal (`lanceur_executor.py`) :
 ---
 ###  Note 
 
-* ** Le dossier `__pycache__` n'est pas inclus dans le dépôt. Il contient le bytecode compilé de Python, qui est spécifique à l'environnement local et automatiquement régénéré. Le fichier `.
+* ** Le dossier `__pycache__` n'est pas inclus dans le dépôt. Il contient le bytecode compilé de Python, qui est spécifique à l'environnement local et automatiquement régénéré.
