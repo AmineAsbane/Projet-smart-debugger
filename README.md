@@ -28,9 +28,6 @@ On crée et on active un environnement virtuel
 
 On exécute le script principal (`lanceur_executor.py`) :
 
-```bash
-.venv/bin/python lanceur_executor.py
-
 ### 3. Résultat Attendu 
 
 1.  **Échec initial :** Le lanceur détecte une erreur (ex: `IndentationError`) dans le script cible.
